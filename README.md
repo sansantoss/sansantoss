@@ -2,7 +2,7 @@
   <img src="/banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Santiago (San) 👋</h1>
+<h1 align="center">Hi, I'm Santos 👋</h1>
 <p align="center">
   Computer Science Engineer · Building toward AI Engineering<br>
   <i>Build. Learn. Improve. Repeat.</i>
