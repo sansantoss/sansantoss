@@ -11,7 +11,7 @@
 ---
 
 ### 🧠 About me
-- 🎓 B.S. Computer Science & Technology @ Tecnológico de Monterrey (GPA 94.58/100)
+- 🎓 B.S. Computer Science & Technology @ Tecnológico de Monterrey
 - 🇦🇹 Exchange in Industrial Mechatronics @ FH Joanneum, Austria
 - 🤖 Focused on **AI engineering**: deep learning, computer vision and the software systems around them
 - 🛠️ Currently building: **[Pilot-OS](https://github.com/sansantoss/Pilot-OS)**
